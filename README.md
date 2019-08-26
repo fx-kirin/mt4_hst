@@ -4,7 +4,15 @@
 
 ## Usage
 
+```
+mt4_hst.read_hst(hst_file_path)
+```
+
 ## Installation
+
+```
+pip install mt4_hst
+```
 
 ### Requirements
 

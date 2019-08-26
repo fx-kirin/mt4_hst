@@ -11,8 +11,16 @@ mt4_hst
 Usage
 -----
 
+.. code-block::
+
+   mt4_hst.read_hst(hst_file_path)
+
 Installation
 ------------
+
+.. code-block::
+
+   pip install mt4_hst
 
 Requirements
 ^^^^^^^^^^^^
