@@ -5,8 +5,11 @@
 ## Usage
 
 ```
-mt4_hst.read_hst(hst_file_path)
+import mt4_hst
+df = mt4_hst.read_hst('pass to hst file')
 ```
+
+This method returns `pandas.DataFrame`.
 
 ## Installation
 

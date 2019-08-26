@@ -27,7 +27,7 @@ def get_requires():
 
 setup(
     name="mt4_hst",
-    version="0.1.0",
+    version="0.1.2",
     url="https://github.com/fx-kirin/mt4_hst",
     license='MIT',
 
