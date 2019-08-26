@@ -1,0 +1,8 @@
+add_parent_path
+kanilog
+numpy
+pandas
+pathlib2
+pytest
+setuptools
+stdlogging
